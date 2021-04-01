@@ -2,7 +2,7 @@
 module.exports = {
     title: 'Y-TARO-DOC',
     tagline: '基于TARO的一些基础库',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://littcc.github.io',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
@@ -41,20 +41,6 @@ module.exports = {
                     to: 'docs/template/getting-started',
                     position: 'right'
                 },
-                // {
-                //     label: 'API',
-                //     activeBasePath: 'api',
-                //     position: 'left',
-                //     items: [
-                //         { label: 'REST API', to: 'docs/api/rest' },
-                //         { label: 'WebSocket API', to: 'docs/api/websocket' },
-                //         { label: 'Supervisor API', to: 'docs/api/supervisor/endpoints' },
-                //         {
-                //             label: 'Native App Integration',
-                //             to: 'docs/api/native-app-integration'
-                //         }
-                //     ]
-                // },
                 { to: 'blog', label: 'Blog', position: 'right' },
                 {
                     href: 'https://www.npmjs.com/package/y-taro-ui',
