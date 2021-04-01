@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Y-TARO-DOC Blog</title>
+        <link>https://littcc.github.io/blog</link>
+        <description>Y-TARO-DOC Blog</description>
+        <lastBuildDate>Sun, 28 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[test]]></title>
+            <link>https://littcc.github.io/doc.github.io/blog/test</link>
+            <guid>test</guid>
+            <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+        </item>
+    </channel>
+</rss>

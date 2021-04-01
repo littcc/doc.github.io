@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{73:function(o){o.exports=JSON.parse('{"allTagsPath":"/doc.github.io/blog/tags","slug":"y-taro-ui","name":"y-taro-ui","count":1,"permalink":"/doc.github.io/blog/tags/y-taro-ui"}')}}]);
